@@ -2,7 +2,7 @@ require('dotenv').config();
 
 
 module.exports = {
-    token: '',
+    token: 'MTQwNzAyNjAwMzM3MjUzOTk4NA.G-Pwme.imKkwQqvVd-PGNsIZoyr9YAbleKa3wBtHRDOsE',
     cookies:{
         domain: ".youtube.com",
         expirationDate: 1757764090.235338,
@@ -27,3 +27,4 @@ module.exports = {
         savePreviousSongs: true,
     }
 };
+
